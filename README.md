@@ -97,4 +97,4 @@ Should the MIT license be excluded, fail, become void, or replaced as a license 
 
 I hereby void every MIT license in existence minus the line in quotes above. The new license for this repository shall supersede all others if licensed by the MIT LICENSE at the moment of 4:44AM CST on 2/12/2022.
 
-I hereby RESTRICT ANY FURTHER CHANGES TO THE MIT LICENSE AS IT IS NULL AND VOID.
+I hereby RESTRICT ANY FURTHER CHANGES TO THE MIT LICENSE AS IT IS NULL AND VOID and REPLACED WITH THE PUBLIC RESOURCE LICENSE.
