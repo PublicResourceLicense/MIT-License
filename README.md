@@ -6,8 +6,7 @@ Focus attention on the bolded wording.
 
 The MIT License (MIT)
 
-Copyright (c) 2009-2022 The Bitcoin Core developers
-Copyright (c) 2009-2022 Bitcoin Developers
+Copyright (c) MIT
 
 **Permission is hereby granted**, free of charge, **to any person obtaining a copy**
 **of this software and associated documentation files (the "Software")**, **to deal**
